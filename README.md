@@ -1,1 +1,1 @@
-# glitch2
+# Backend Challenges boilerplate - package.json
